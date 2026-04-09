@@ -11,6 +11,12 @@ This project demonstrates a comprehensive, end-to-end configuration of a high-av
 
 ---
 
+## 🖼️ Network Topology
+
+![Network Topology](./Topology/Topology_Diagram.jpg)
+
+---
+
 ## 🏗️ Topology & Architecture
 The network is structured using a hierarchical design (Core - Distribution - Access) across two main offices (Office A & Office B), featuring:
 - **Redundant Internet Edge:** Dual ISP connections via R1.
