@@ -58,3 +58,10 @@ The network is structured using a hierarchical design (Core - Distribution - Acc
 │   ├── Core_Switch_1.txt
 │   └── Dist_Switch_A1.txt
 └── README.md                # Project documentation
+
+---
+```
+## 👤 Contact Information
+
+**Duy Viet** *Network Engineering Enthusiast*
+* **Lab Credit:** Based on the *Jeremy's IT Lab* CCNA curriculum.
